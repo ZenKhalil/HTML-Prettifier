@@ -1,5 +1,10 @@
 # DOM Tree Formatter
 
+## Demo
+
+Du kan se en demo af DOM Tree Formatter på følgende link:  
+[DOM Tree Formatter Demo](https://zenkhalil.github.io/HTML-Prettifier/)
+
 Dette projekt indeholder en JavaScript-funktion, der formaterer og udskriver HTML-strukturen for et webdokument, inklusive korrekt indrykning og håndtering af void-elementer og inline-elementer.
 
 ## Funktionalitet
